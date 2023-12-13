@@ -1,26 +1,3 @@
-# Bit Manipulation - Bit Calculator
-
-<p align="center">
-  <img src="8.png">
-</p>
-
-
-This project is simple calculator with different functionalities the unique feature in this project is there is no math sign('+','-','*','/') is used here instead of this sign the bit manipulation is used.
-
-
-# How to run app 
-
- * This is simple website with vanila javascript so you can directly run on your local machine without downloading any additional framework.
- * If you want to edite then it is better to use sass compiler because scss is used here. 
-
-# How to run modules
-
- * In this module just enter value-one in one input field and enter value-two in second input field.
- * press the button according to the action you want to perform the result is shown to the result field.
-
-# How it works
-
-```sh
 Bit Manipulation - Bit Calculator
 
     play audio
@@ -98,14 +75,7 @@ Bit Manipulation - Bit Calculator
         - get both value 
         - convert to hexadecimal value 
         - set output
+    
+        
 
-
-```
-
-## What it looks like
-
-
-<p align="center">
-  <img src="0.gif">
-</p>
-  
+        
